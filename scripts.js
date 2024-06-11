@@ -1,4 +1,4 @@
-const url = 'https://www.youtube.com/watch?v=Yo2GdogCAZc'
+const url = 'https://www.youtube.com/watch?v=yyfCPyQR-SE'
 const btn = document.querySelector('#btn')
 
 function sim() {
