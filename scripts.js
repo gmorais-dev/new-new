@@ -1,7 +1,7 @@
 const url = 'https://www.youtube.com/watch?v=yyfCPyQR-SE'
 const btn = document.querySelector('#btn')
 
-function sim() {
+function sim () {
     const win = window.open(url, '_blank')
     win.focus()
 }
